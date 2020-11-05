@@ -1,5 +1,7 @@
 # My awesome REST API
 
+This is build with Flask, Flask-RESTFul
+
 ## Installation
 
 ```
@@ -13,3 +15,5 @@ python app.py
 ## Implementation
 
 This project is implemented using Flask, and is a REST API for a store.
+
+## Issue Tracking
